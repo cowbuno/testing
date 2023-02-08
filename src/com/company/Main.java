@@ -7,5 +7,6 @@ public class Main {
         System.out.println("hi world");
         System.out.println("jvndccldkj");
         System.out.println("fdijfdslkmvsdlkjidjfidjifjdijfidjfi");
+        int test = 1;
     }
 }
